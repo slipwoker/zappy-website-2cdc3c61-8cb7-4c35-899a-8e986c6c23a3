@@ -1,0 +1,83 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות בגדי ים אונליין ישראל שמגדירה מחדש את האלגנטיות. עיצובים מושלמים לחוף, לבריכה ולנסיעות יוקרתיות. קני עכשיו וחווי את ההרגשה של אופנת ריזורט פרמיום.
+
+### סיפור המותג
+https://example.com/brand-story
+סיפור המותג שמאחורי בגדי הים המשוכללים ביותר בישראל. גלי את הערכים, החזון והאהבה לאסתטיקה נקייה ומרהיבה שמניעים כל עיצוד שאנו יוצרים.
+
+### אומנות והתאמה
+https://example.com/craftsmanship-fit
+אומנות ייחודית והתאמה מושלמת לגוף — כך נוצרים בגדי הים שלנו. חומרים פרמיום, חיתוך מדויק ותשומת לב לכל פרט. גלי למה Popa Culo היא הבחירה של נשים שמסרבות להתפשר.
+
+### לוקבוק
+https://example.com/lookbook
+הלוקבוק של Popa Culo הוא חגיגה ויזואלית של אופנת חוף יוקרתית. גלי את הקולקציה החדשה דרך תמונות מרהיבות שיעוררו בך השראה לבחור את בגד הים המושלם שלך.
+
+### צור קשר
+https://example.com/contact
+יש שאלה על מידות, עיצובים או קנייה בגדי ים אונליין? צוות Popa Culo כאן בשבילך. צרי קשר עכשיו ונעזור לך למצוא את בגד הים שיגרום לך להרגיש בלתי ניתנת לעצירה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Popa Culo
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Popa Culo
+
+### Category
+https://example.com/category/:slug
+מוצרים - Popa Culo
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
